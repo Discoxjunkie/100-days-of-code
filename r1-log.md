@@ -12,3 +12,8 @@ Continued portfolio project, added a little bit of styling to the page.
 
 ### R1D3
 Wrapped the coding and styling of the portfolio project.
+
+### R1D4
+finished port project and moved onto Javascript
+
+
