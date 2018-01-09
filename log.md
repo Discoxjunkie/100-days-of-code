@@ -32,6 +32,6 @@
 
 **Today's Progress**: Added my codepen to FFC and submitted, started the javascript section.
 
-**Thoughts:** Struggled a little bit in terms of syntax and putting brackets where they need to be especially with the temperature conversion excersise. A little frustrating.
+**Thoughts:** Struggled a little bit in terms of syntax and putting brackets where they need to be especially with the temperature conversion exercise. A little frustrating.
 
 **Link to work:** N/A
