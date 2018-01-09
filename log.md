@@ -26,3 +26,12 @@
 **Thoughts:** Things ran pretty smoothly, had no problem figuring things out. Satisfied.
 
 **Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
+
+
+### Day 3: January 8th, 2018
+
+**Today's Progress**: Added my codepen to FFC and submitted, started the javascript section.
+
+**Thoughts:** Struggled a little bit in terms of syntax and putting brackets where they need to be especially with the temperature conversion excersise. A little frustrating.
+
+**Link to work:** N/A
