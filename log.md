@@ -35,3 +35,12 @@
 **Thoughts:** Struggled a little bit in terms of syntax and putting brackets where they need to be especially with the temperature conversion exercise. A little frustrating.
 
 **Link to work:** N/A
+
+
+### Day 4: January 9th, 2018
+
+**Today's Progress**: Continued Javascript challenges.
+
+**Thoughts:** Still not tocomfortable with syntax, but things flowed a lot easier and I'm beginning to really just understand whats going in the code by looking at it.
+
+**Link to work:** N/A
