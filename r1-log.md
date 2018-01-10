@@ -15,3 +15,6 @@ Wrapped the coding and styling of the portfolio project.
 
 ### R1D4
 finished port project and moved onto Javascript.
+
+### R1D5
+Continued Javascript challenges.
