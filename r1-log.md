@@ -18,3 +18,6 @@ finished port project and moved onto Javascript.
 
 ### R1D5
 Continued Javascript challenges.
+
+### R1D6
+Continued Javascript challenges.
