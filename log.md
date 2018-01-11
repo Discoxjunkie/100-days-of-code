@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 3rd, 2018
+### Day 1: January 3rd, 2018
 
 
 **Today's Progress**: Started a new FCC project (personal portfolio)
@@ -10,7 +10,7 @@
 **Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
 
 
-### Day 1: January 4th, 2018
+### Day 2: January 4th, 2018
 
 **Today's Progress**: Added a bit of styling to the header and nav portions of the site, also added a few image placeholders for the work section
 
@@ -19,7 +19,7 @@
 **Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
 
 
-### Day 2: January 6th, 2018
+### Day 3: January 6th, 2018
 
 **Today's Progress**: Pretty much wrapped up the portfolio exercise, just have to add it to code pen and submit it.
 
@@ -28,7 +28,7 @@
 **Link to work:** Practice Portfolio Building (https://discoxjunkie.github.io/FCCprotfolioproject/)
 
 
-### Day 3: January 8th, 2018
+### Day 4: January 8th, 2018
 
 **Today's Progress**: Added my codepen to FFC and submitted, started the javascript section.
 
@@ -37,10 +37,19 @@
 **Link to work:** N/A
 
 
-### Day 4: January 9th, 2018
+### Day 5: January 9th, 2018
 
 **Today's Progress**: Continued Javascript challenges.
 
 **Thoughts:** Still not tocomfortable with syntax, but things flowed a lot easier and I'm beginning to really just understand whats going in the code by looking at it.
+
+**Link to work:** N/A
+
+
+### Day 6: January 10th, 2018
+
+**Today's Progress**: Continued Javascript challenges.
+
+**Thoughts:** A bit easier today, was able to float throught the challenges.
 
 **Link to work:** N/A
