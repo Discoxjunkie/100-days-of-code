@@ -21,3 +21,6 @@ Continued Javascript challenges.
 
 ### R1D6
 Continued Javascript challenges.
+
+### R1D7
+Continued Javascript challenges.
