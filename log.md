@@ -53,3 +53,12 @@
 **Thoughts:** A bit easier today, was able to float throught the challenges.
 
 **Link to work:** N/A
+
+
+### Day 7: January 11th, 2018
+
+**Today's Progress**: Continued Javascript challenges.
+
+**Thoughts:** Rolld through the first couple, got stuck on the queue challenge and had to look up the soloution. Having issues remembering syntax.
+
+**Link to work:** N/A
