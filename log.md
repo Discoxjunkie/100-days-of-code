@@ -62,3 +62,12 @@
 **Thoughts:** Rolld through the first couple, got stuck on the queue challenge and had to look up the soloution. Having issues remembering syntax.
 
 **Link to work:** N/A
+
+
+### Day 8: January 16th, 2018
+
+**Today's Progress**: Continued Javascript challenges.
+
+**Thoughts:** had a bit of isse with syntax and calculations, but figured it out in the end.
+
+**Link to work:** N/A
