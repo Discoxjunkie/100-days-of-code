@@ -71,3 +71,12 @@
 **Thoughts:** had a bit of isse with syntax and calculations, but figured it out in the end.
 
 **Link to work:** N/A
+
+
+### Day 9: January 17th, 2018
+
+**Today's Progress**: Continued Javascript challenges.
+
+**Thoughts:** Struggled a bit figuring out the card game switch function challenge, still need to wrap my mind around syntax and calculations.
+
+**Link to work:** N/A
