@@ -80,3 +80,22 @@
 **Thoughts:** Struggled a bit figuring out the card game switch function challenge, still need to wrap my mind around syntax and calculations.
 
 **Link to work:** N/A
+
+
+### Day 10: January 18th, 2018
+
+**Today's Progress**: Continued Javascript challenges.
+
+**Thoughts:** worked some more on the FCC javascript challenges still having difficulty understanding the syntax
+
+**Link to work:** N/A
+
+
+
+### Day 11: January 19th, 2018
+
+**Today's Progress**: Continued Javascript challenges.
+
+**Thoughts:** Decided to backtrack a bit and try another course, Practical Javascript. Alrrady feels a bit smoother in terms of learning how things work, still struggling just a bit with syntax....but I'll get it with practice.
+
+**Link to work:** N/A
