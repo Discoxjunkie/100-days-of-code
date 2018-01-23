@@ -36,3 +36,6 @@ Continued Javascript challenges.
 
 ### R1D11
 Started a new course to recap and really understand. Practical javascript.
+
+### R1D12
+continued Practical javascript course.
