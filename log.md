@@ -99,3 +99,13 @@
 **Thoughts:** Decided to backtrack a bit and try another course, Practical Javascript. Alrrady feels a bit smoother in terms of learning how things work, still struggling just a bit with syntax....but I'll get it with practice.
 
 **Link to work:** N/A
+
+
+
+### Day 11: January 22nd, 2018
+
+**Today's Progress**: Continued practical javascript.
+
+**Thoughts:** went further into functions and moved into objects...this course is really broken down and making it easier for me to understand how these things can be used in real life situations which I enjoy. Things are starting to click for me. :) 
+
+**Link to work:** N/A
