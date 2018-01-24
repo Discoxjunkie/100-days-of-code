@@ -109,3 +109,12 @@
 **Thoughts:** went further into functions and moved into objects...this course is really broken down and making it easier for me to understand how these things can be used in real life situations which I enjoy. Things are starting to click for me. :) 
 
 **Link to work:** N/A
+
+
+### Day 12: January 23nd, 2018
+
+**Today's Progress**: Continued practical javascript.
+
+**Thoughts:** Feeling good today with the lessons, will continue to practice methods on my own to really have it down pact. 
+
+**Link to work:** N/A
