@@ -120,7 +120,25 @@
 **Link to work:** N/A
 
 
-### Day 13: January 29nd, 2018
+### Day 13: January 24th, 2018
+
+**Today's Progress**: Continued practical javascript.
+
+**Thoughts:** Feeling good today with the lessons, will continue to practice methods on my own to really have it down pact. 
+
+**Link to work:** N/A
+
+
+### Day 14: January 25th, 2018
+
+**Today's Progress**: Continued practical javascript.
+
+**Thoughts:** Feeling good today with the lessons, will continue to practice methods on my own to really have it down pact. 
+
+**Link to work:** N/A
+
+
+### Day 15: January 29nd, 2018
 
 **Today's Progress**: Continued practical javascript, started putting together Jackmans website
 
