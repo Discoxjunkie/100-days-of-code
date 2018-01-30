@@ -118,3 +118,12 @@
 **Thoughts:** Feeling good today with the lessons, will continue to practice methods on my own to really have it down pact. 
 
 **Link to work:** N/A
+
+
+### Day 13: January 29nd, 2018
+
+**Today's Progress**: Continued practical javascript, started putting together Jackmans website
+
+**Thoughts:** Feeling good today with the lessons, will continue to practice methods on my own to really have it down pact. Also started a freelance website with bootstrap building blocks.
+
+**Link to work:** N/A
