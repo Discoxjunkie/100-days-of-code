@@ -40,5 +40,11 @@ Started a new course to recap and really understand. Practical javascript.
 ### R1D12
 continued Practical javascript course.
 
-### R1D12
+### R1D13
 continued Practical javascript course.
+
+### R1D14
+continued Practical javascript course.
+
+### R1D15
+continued Practical javascript course.Started a freelanc web dev/ design project.
