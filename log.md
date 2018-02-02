@@ -138,10 +138,37 @@
 **Link to work:** N/A
 
 
-### Day 15: January 29nd, 2018
+### Day 15: January 29th, 2018
 
 **Today's Progress**: Continued practical javascript, started putting together Jackmans website
 
 **Thoughts:** Feeling good today with the lessons, will continue to practice methods on my own to really have it down pact. Also started a freelance website with bootstrap building blocks.
+
+**Link to work:** N/A
+
+
+### Day 16: January 30th, 2018
+
+**Today's Progress**: did a few Javascript exercises at work om W3 schools
+
+**Thoughts:** reviewing basic things, nothing too difficult
+
+**Link to work:** N/A
+
+
+### Day 17: January 31th, 2018
+
+**Today's Progress**: continued building the jackmans site
+
+**Thoughts:** comfortable with HTML and CSS as well as woring with the bootstrap frame work so it was all good.
+
+**Link to work:** N/A
+
+
+### Day 18: January 31th, 2018
+
+**Today's Progress**: ran through a few practice problems on codecademy at work, got home and continued practical javascript course
+
+**Thoughts:** 
 
 **Link to work:** N/A
