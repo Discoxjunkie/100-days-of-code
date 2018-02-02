@@ -47,4 +47,13 @@ continued Practical javascript course.
 continued Practical javascript course.
 
 ### R1D15
+continued Practical javascript course. Started a freelance web dev/ design project.
+
+### R1D16
+Did a few exercises on W3 Schools
+
+### R1D17
 continued Practical javascript course.Started a freelanc web dev/ design project.
+
+### R1D18
+worked on website
