@@ -162,7 +162,7 @@
 
 **Thoughts:** comfortable with HTML and CSS as well as woring with the bootstrap frame work so it was all good.
 
-**Link to work:** N/A
+**Link to work:**  https://discoxjunkie.github.io/JackmanSite/
 
 
 ### Day 18: January 31th, 2018
