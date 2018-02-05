@@ -57,3 +57,9 @@ worked on website
 
 ### R1D18
 continued proctical javascript course
+
+### R1D19
+continued proctical javascript course
+
+### R1D20
+Ran through codecademy excersises 
