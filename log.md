@@ -172,3 +172,21 @@
 **Thoughts:** 
 
 **Link to work:** N/A
+
+
+### Day 19: February 1st, 2018
+
+**Today's Progress**: Continued Practical javascrip course
+
+**Thoughts:** 
+
+**Link to work:** N/A
+
+
+### Day 20: February 2nd, 2018
+
+**Today's Progress**: Ran through a few javascrip practices on Codecademy during the day
+
+**Thoughts:** 
+
+**Link to work:** N/A
