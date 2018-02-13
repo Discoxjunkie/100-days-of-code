@@ -190,3 +190,12 @@
 **Thoughts:** 
 
 **Link to work:** N/A
+
+
+### Day 21: February 12nd, 2018
+
+**Today's Progress**: Practical Javascript continuation, looked into the debugger
+
+**Thoughts:** glad I learned abou tthis, will def help in future
+
+**Link to work:** N/A
