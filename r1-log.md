@@ -63,3 +63,6 @@ continued proctical javascript course
 
 ### R1D20
 Ran through codecademy excersises 
+
+### R1D21
+practical javascript, trying out the debugger
