@@ -66,3 +66,6 @@ Ran through codecademy excersises
 
 ### R1D21
 practical javascript, trying out the debugger
+
+### R1D22
+worked on Jackmans site
