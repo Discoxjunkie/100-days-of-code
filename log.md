@@ -199,3 +199,12 @@
 **Thoughts:** glad I learned abou tthis, will def help in future
 
 **Link to work:** N/A
+
+
+### Day 22: February 13th, 2018
+
+**Today's Progress**: added to Jackmans site
+
+**Thoughts:** standard stuff
+
+**Link to work:** N/A
