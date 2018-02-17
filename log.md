@@ -208,3 +208,21 @@
 **Thoughts:** standard stuff
 
 **Link to work:** N/A
+
+
+### Day 22: February 13th, 2018
+
+**Today's Progress**: worked on some cocademy JS excersises
+
+**Thoughts:** standard stuff
+
+**Link to work:** N/A
+
+
+### Day 24: February 16th, 2018
+
+**Today's Progress**: added to Jackmans site
+
+**Thoughts:** standard stuff
+
+**Link to work:** https://discoxjunkie.github.io/JackmanSite/
