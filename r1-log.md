@@ -69,3 +69,9 @@ practical javascript, trying out the debugger
 
 ### R1D22
 worked on Jackmans site
+
+### R1D23
+codecademy
+
+### R1D24
+worked on Jackmans site
